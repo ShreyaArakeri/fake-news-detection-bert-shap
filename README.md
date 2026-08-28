@@ -15,7 +15,7 @@ analysis across three benchmark datasets.
 - RoBERTa-base
 
 ## Datasets
-- [Kaggle Fake and Real News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+- [Kaggle Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 - [LIAR Political Claims Dataset](https://www.cs.ucsb.edu/~william/data/liar_dataset.zip)
 - [WELFake Dataset](https://zenodo.org/record/4561253)
 
